@@ -20,7 +20,9 @@ public class StringsEquals {
         //	}
         else {
         		System.out.println("not equal");
-        	}
+        	
+        }
+        
         
         }
 	}
